@@ -5,6 +5,8 @@ Analysis of the science identity construct given before and after Nanocamp.
 
 ### GEAR-UP
 
+GEAR-UP was a one-week long camps taught to high schoolers in various Washingtonian school districts.
+
 Line density plot of answers, by student.
 
 <p align="center">
