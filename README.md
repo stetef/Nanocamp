@@ -68,7 +68,7 @@ Looking at the change in responses for individual students, we see most students
 We see students 17 and 20 failed to take the post and pre surveys, respectively.
 
 <p align="center">
-<img src="Figures/Figures/hist_by_student_gearup.png" alt="individual_hists" width="400">
+<img src="Figures/hist_by_student_gearup.png" alt="individual_hists_gearup" width="400">
 </p>
 
 
@@ -77,5 +77,5 @@ We see students 17 and 20 failed to take the post and pre surveys, respectively.
 The largest difference in responses occurs for Students 11 and 23, while Student 27 likely did not follow directions to properly fill out the survey, and thus can be rejected from the study.
 
 <p align="center">
-<img src="Figures/Figures/hist_by_student_conted.png" alt="individual_hists" width="400">
+<img src="Figures/hist_by_student_conted.png" alt="individual_hists_conted" width="400">
 </p>
