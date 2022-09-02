@@ -1,5 +1,11 @@
 # Nanocamp
-Analysis of the science identity construct given before and after Nanocamp.
+
+We expanded upon curriculum and lesson plans developed last year by Claire West, which were adapted from the nanoscience instrument developed in Schönborn et al. to determine nanoscience knowledge [1](https://pubs.rsc.org/en/content/articlelanding/2015/RP/C4RP00241E). We taught the subject material in the form of one to two week long summer camps called Nanocamp. Lessons covered key principles that dominate nanoscience and nanotechnology, with particular focus on nanosized interactions and its connections to active research areas. Content included scale, model of an atom, bonds, lithography, surface area, surface tension, nanostructures (specifically nanotubes and buckyballs), two-dimensional materials like graphene, and the electromagnetic force. Each lesson was accompanied by an interactive activity that either stressed the scientific method or was exploratory in nature. Moreover, campus laboratory tours supplemented class material. Finally, we administered a pre- and post- class survey to determine the effect of the camp on the students’ science identity [2](https://digital.lib.uidaho.edu/digital/collection/etd/id/784/).
+ 
+**References**
+[1] "Measuring understanding of nanoscience and nanotechnology: development and validation of the nano-knowledge instrument (NanoKI)." Schönborn, K. J.; Höst, G. E.; Lundin Palmerius, K. E., Chem. Educ. Res. Pract., 2015, 16, 346-354.
+[2] "Science identity in informal education." Schon, J. A., Dissertation, University of Idaho: Moscow, Idaho, 2015.
+
 
 # Results
 
